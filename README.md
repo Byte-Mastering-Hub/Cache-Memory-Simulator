@@ -101,11 +101,10 @@ Cache-Memory-Simulator/
 
 ## 👨‍💻 Author & Contact
 
-**ByteMasteringHub**
-**Web Developer**
-
-📧 **Email:** [sumitsumit53092@gmail.com](mailto:sumitsumit53092@gmail.com)
-🔗 **LinkedIn:** [https://www.linkedin.com/in/sumit-tak-9049092b5/](https://www.linkedin.com/in/sumit-tak-9049092b5/)
+- **ByteMasteringHub**
+- **Web Developer**
+- 📧 **Email:** [sumitsumit53092@gmail.com](mailto:sumitsumit53092@gmail.com)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/sumit-tak-9049092b5/](https://www.linkedin.com/in/sumit-tak-9049092b5/)
 
 ---
 
