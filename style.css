@@ -1,0 +1,101 @@
+/* Background */
+body {
+    font-family: Arial, sans-serif;
+    background: #F1F3E0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main Container */
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #D2DCB6;
+    padding: 30px;
+    border-radius: 14px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+/* Title */
+h1 {
+    text-align: center;
+    color: #778873;
+    margin-bottom: 25px;
+    letter-spacing: 1px;
+}
+
+/* Labels */
+label {
+    font-weight: bold;
+    color: #4a5149;
+}
+
+/* Inputs */
+input, button {
+    width: 100%;
+    padding: 12px;
+    margin: 12px 0;
+    border: 2px solid #A1BC98;
+    border-radius: 8px;
+    font-size: 15px;
+    transition: 0.3s ease;
+}
+
+/* Input Focus */
+input:focus {
+    outline: none;
+    border-color: #778873;
+}
+
+/* BUTTON */
+button {
+    background: #778873;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    background: #5e6b59;
+}
+
+/* RESULT BOX */
+.result-box {
+    margin-top: 20px;
+    background: #A1BC98;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+/* TABLE */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #778873;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+    font-size: 16px;
+}
+
+th {
+    background: #A1BC98;
+    color: white;
+}
+
+td {
+    background: #F1F3E0;
+}
